@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/productly/static/js/main.4d7cb4a7.js",
+    "index.html": "/productly/index.html",
+    "main.4d7cb4a7.js.map": "/productly/static/js/main.4d7cb4a7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4d7cb4a7.js"
+  ]
+}
